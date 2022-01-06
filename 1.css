@@ -1,0 +1,27 @@
+body{
+    
+}
+#first-header{
+    font-size: 50px;
+    font-family: 'Yeseva One', cursive;
+    font-style: normal;
+    font-weight: normal;
+    
+}
+.purple-color{
+    color: rgb(137 55 127);
+}
+.section-1{
+    display: flex;
+    
+}
+#rectangle{
+    height: 100px;
+    background-color: orange;
+}
+.flex{
+    display: flex;
+}
+.section2-4header{
+    text-align: center;
+}
