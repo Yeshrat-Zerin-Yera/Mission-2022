@@ -9,6 +9,9 @@ p{
 .purple-color{
     color: rgb(192, 64, 177);
 }
+#white-color{
+    color: oldlace;
+}
 .align-center{
     text-align: center;
 }
@@ -47,14 +50,22 @@ p{
     padding: 2%;
     border-radius: 30px;
 }
+#bg-color4{
+    background-color: rgb(1, 0, 17);
+    height: 230px;
+    margin-bottom: 10px;
+}
 .section3-4{
     padding-left: 5%;
     padding-right: 5%;
     padding-top: 5%;
 }
-#picture-2{
+.picture2-3{
     height: 600px;
     width: 700px;
+}
+#picture-4{
+    height: 800px;
 }
 .padding-right{
     padding-right: 10%;
